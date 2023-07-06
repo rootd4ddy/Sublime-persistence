@@ -19,6 +19,6 @@ class OpenCalcOnModified(sublime_plugin.EventListener):
 In the above python script we define a class called 'OpenCalcOnModified' which invokes the on_modified function. 
 When a keystroke is detected within the sublime text editor, the .POpen() method in the subproccess module executes calc.exe.  
 
-![alt text](https://github.com/rootd4ddy/Sublime-persistence/assets/129632649/993016ec-0b9a-418a-92b9-60de66f32308)
+![alt text](https://github.com/rootd4ddy/Sublime-persistence/sublime.png)
 
 
